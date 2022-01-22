@@ -1,0 +1,108 @@
+body{
+    overflow-x: hidden;
+}
+.na{
+    color: #003311;
+    font-size: small;
+}
+
+.dj{
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.btndj{
+    text-decoration: none;
+    height: 9vh;
+}
+
+.learn{
+    text-align: center;
+}
+
+.lbtn{
+    width: 100%;
+
+}
+
+.meetdes{
+    font-size: 3vh;
+}
+
+
+
+.cont{
+
+   padding: 0;
+
+}
+
+
+
+
+
+.support{
+    margin-top: -16px;
+}
+
+
+.btnsprtdj{
+
+    padding: 2vh;
+    height: 9vh;
+}
+
+
+.morenews{
+    color: #44B78B;
+}
+
+.heart{
+    display: flex;
+}
+
+.donatepara{
+    font-size: small;
+    color: #44B78B
+}
+
+.djsecu{
+    color: #44B78B;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.djsecudes{
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.djauth{
+    font-weight: lighter;
+    font-size: 15px;
+    color: gray;
+
+}
+
+.symbol{
+    display: flex;
+
+}
+
+.symnote{
+    color: #44B78B;
+    width: 17px;
+    height: 20px;
+    margin-right: 10px;
+
+}
+
+
+footer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(28, 177, 102, 0.836);
+}
+
